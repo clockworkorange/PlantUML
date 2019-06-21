@@ -1,0 +1,5 @@
+@startuml
+Interface TvController {
+     +method2()
+}
+@enduml
